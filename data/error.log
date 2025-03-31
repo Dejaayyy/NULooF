@@ -1,0 +1,274 @@
+[16-Dec-2024 08:53:08 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 34
+    [status] => lost
+    [holding] => Surrendered at D.O Office
+    [itemName] => Jordan 1
+    [itemCategory] => Shoes
+    [itemColor] => Green
+    [itemBrand] => Nike
+    [description] => 123
+    [floorNo] => 2
+    [roomNo] => 2
+    [reportDate] => 2024-12-12
+    [reportTime] => 22:04:00
+)
+
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 40
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[16-Dec-2024 08:53:08 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[16-Dec-2024 08:53:20 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 36
+    [status] => found
+    [holding] => Surrendered at D.O Office
+    [itemName] => Iphone 17
+    [itemCategory] => 12323223
+    [itemColor] => 123
+    [itemBrand] => 123
+    [description] => 123
+    [floorNo] => 1
+    [roomNo] => 2
+    [reportDate] => 2024-12-06
+    [reportTime] => 03:10:00
+)
+
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 40
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[16-Dec-2024 08:53:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[16-Dec-2024 08:53:53 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 36
+    [status] => found
+    [holding] => Surrendered at D.O Office
+    [itemName] => Iphone 17adfgdfgsdfg
+    [itemCategory] => 12323223
+    [itemColor] => 123
+    [itemBrand] => 123
+    [description] => 123
+    [floorNo] => 1
+    [roomNo] => 2
+    [reportDate] => 2024-12-06
+    [reportTime] => 03:10:00
+)
+
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 40
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[16-Dec-2024 08:53:53 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[09-Jan-2025 14:11:37 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 43
+    [status] => lost
+    [itemName] => Iphone 10
+    [itemCategory] => Gadget
+    [itemColor] => Black
+    [itemBrand] => Apple
+    [description] => basag sa likod
+    [floorNo] => 2
+    [roomNo] => 242
+    [reportDate] => 2025-01-07
+    [reportTime] => 23:07:00
+)
+
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[09-Jan-2025 14:11:37 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[09-Jan-2025 17:15:20 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 43
+    [status] => lost
+    [holding] => Surrendered at D.O Office
+    [itemName] => Iphone 10
+    [itemCategory] => Gadget
+    [itemColor] => Black
+    [itemBrand] => Apple
+    [description] => basag sa likod
+    [floorNo] => 2
+    [roomNo] => 242
+    [reportDate] => 2025-01-07
+    [reportTime] => 23:07:00
+)
+
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 40
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[09-Jan-2025 17:15:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[09-Jan-2025 17:15:38 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 45
+    [status] => lost
+    [holding] => Not Surrendered at D.O Office
+    [itemName] => Shoes
+    [itemCategory] => Gadget
+    [itemColor] => Green
+    [itemBrand] => Adidos
+    [description] => 123
+    [floorNo] => 1
+    [roomNo] => 204
+    [reportDate] => 2025-01-09
+    [reportTime] => 12:45:00
+)
+
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 40
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[09-Jan-2025 17:15:38 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[09-Jan-2025 17:34:33 Europe/Berlin] POST data received: Array
+(
+    [itemId] => 44
+    [status] => found
+    [itemName] => Iphone 39
+    [itemCategory] => Gadget
+    [itemColor] => Gray
+    [itemBrand] => asldkfjhadkljghaerghjklawg
+    [description] => back is cracced
+    [floorNo] => 2
+    [roomNo] => 204
+    [reportDate] => 2025-01-04
+    [reportTime] => 12:13:00
+)
+
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 39
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 41
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 42
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 43
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 44
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 45
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 46
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 47
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 48
+[09-Jan-2025 17:34:33 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in D:\xampp\htdocs\nuloof\data\edit_form_handler.php on line 49
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 52
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 53
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 54
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 55
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 56
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 57
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 58
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 59
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 60
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 61
+[06-Feb-2025 16:02:57 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 62
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 84
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 85
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 86
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 87
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 88
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 89
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 90
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 91
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 92
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 93
+[06-Feb-2025 17:19:48 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 94
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 84
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 85
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 86
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 87
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 88
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 89
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 90
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 91
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 92
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 93
+[06-Feb-2025 17:20:10 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 94
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 84
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 86
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 87
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 88
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 89
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 90
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 91
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 92
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 93
+[06-Feb-2025 17:51:11 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 94
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 81
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 82
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 83
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 84
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 85
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 86
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 87
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 88
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 89
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 90
+[06-Feb-2025 17:55:35 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 91
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 81
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 82
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 83
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 84
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 85
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 86
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 87
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 88
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 89
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 90
+[06-Feb-2025 17:55:54 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 91
+[03-Mar-2025 09:53:10 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 09:53:10 Europe/Berlin] PHP Warning:  Undefined array key "existingImage" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 49
+[03-Mar-2025 09:55:56 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 09:55:56 Europe/Berlin] PHP Warning:  move_uploaded_file(uploads/image-3590511237919580.jpg): Failed to open stream: No such file or directory in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 45
+[03-Mar-2025 09:55:56 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\xampp\tmp\phpE2CD.tmp&quot; to &quot;uploads/image-3590511237919580.jpg&quot; in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 45
+[03-Mar-2025 09:55:56 Europe/Berlin] PHP Warning:  Undefined array key "existingImage" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 49
+[03-Mar-2025 10:02:25 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:02:25 Europe/Berlin] PHP Warning:  move_uploaded_file(uploads/image-3590511237919580.jpg): Failed to open stream: No such file or directory in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 45
+[03-Mar-2025 10:02:25 Europe/Berlin] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\xampp\tmp\phpD41B.tmp&quot; to &quot;uploads/image-3590511237919580.jpg&quot; in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 45
+[03-Mar-2025 10:02:25 Europe/Berlin] PHP Warning:  Undefined array key "existingImage" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 49
+[03-Mar-2025 10:06:21 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:06:21 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: basename(): Argument #1 ($path) must be of type string, array given in C:\xampp\htdocs\revisions\data\edit_form_handler.php:43
+Stack trace:
+#0 C:\xampp\htdocs\revisions\data\edit_form_handler.php(43): basename(Array)
+#1 {main}
+  thrown in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 43
+[03-Mar-2025 10:11:50 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:12:11 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:12:11 Europe/Berlin] PHP Warning:  Undefined array key "itemImage" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 49
+[03-Mar-2025 10:21:26 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:22:46 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:26:21 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:38:35 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
+[03-Mar-2025 10:38:58 Europe/Berlin] PHP Warning:  Undefined array key "editstorageRoom" in C:\xampp\htdocs\revisions\data\edit_form_handler.php on line 39
