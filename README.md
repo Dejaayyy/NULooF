@@ -12,3 +12,6 @@ User Home Page:
 
 Admin Home Page:
 ![Image](https://github.com/user-attachments/assets/1871651f-acf1-4d9c-b9fa-58346e78c940)
+
+Documentation:
+[IT225 - TECH4U.docx](https://github.com/user-attachments/files/19538518/IT225.-.TECH4U.docx)
