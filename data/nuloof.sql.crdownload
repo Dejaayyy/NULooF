@@ -1,0 +1,131 @@
+-- phpMyAdmin SQL Dump
+-- version 5.2.1
+-- https://www.phpmyadmin.net/
+--
+-- Host: 127.0.0.1
+-- Generation Time: Jan 09, 2025 at 05:35 PM
+-- Server version: 10.4.28-MariaDB
+-- PHP Version: 8.2.4
+
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+START TRANSACTION;
+SET time_zone = "+00:00";
+
+
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+
+--
+-- Database: `nuloof`
+--
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `reports_table`
+--
+
+CREATE TABLE `reports_table` (
+  `report_id` int(11) NOT NULL,
+  `ITEM_IMAGE` varchar(255) DEFAULT NULL,
+  `ITEM_STATUS` varchar(100) DEFAULT NULL,
+  `HOLDING_STATUS` enum('Not Surrendered at D.O Office','Surrendered at D.O Office','Claimed','Unclaimed') DEFAULT NULL,
+  `ITEM_NAME` varchar(255) DEFAULT NULL,
+  `ITEM_CATEGORY` varchar(100) DEFAULT NULL,
+  `ITEM_COLOR` varchar(100) DEFAULT NULL,
+  `ITEM_BRAND` varchar(100) DEFAULT NULL,
+  `ITEM_DESCRIPTION` text DEFAULT NULL,
+  `FLOOR_NUMBER` int(11) DEFAULT NULL,
+  `ROOM_NUMBER` int(11) DEFAULT NULL,
+  `ITEM_DATE` date DEFAULT NULL,
+  `ITEM_TIME` time DEFAULT NULL,
+  `id_number` int(11) DEFAULT NULL,
+  `match_status` varchar(50) NOT NULL DEFAULT 'not_found',
+  `matched_with` int(11) DEFAULT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `reports_table`
+--
+
+INSERT INTO `reports_table` (`report_id`, `ITEM_IMAGE`, `ITEM_STATUS`, `HOLDING_STATUS`, `ITEM_NAME`, `ITEM_CATEGORY`, `ITEM_COLOR`, `ITEM_BRAND`, `ITEM_DESCRIPTION`, `FLOOR_NUMBER`, `ROOM_NUMBER`, `ITEM_DATE`, `ITEM_TIME`, `id_number`, `match_status`, `matched_with`) VALUES
+();
+
+-- --------------------------------------------------------
+
+--
+-- Table structure for table `user_info`
+--
+
+CREATE TABLE `user_info` (
+  `id_number` int(11) NOT NULL,
+  `first_name` varchar(100) NOT NULL,
+  `middle_name` varchar(100) NOT NULL,
+  `last_name` varchar(255) NOT NULL,
+  `password` varchar(255) NOT NULL,
+  `email_add` varchar(255) NOT NULL,
+  `created_at` timestamp NOT NULL DEFAULT current_timestamp()
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
+
+--
+-- Dumping data for table `user_info`
+--
+
+INSERT INTO `user_info` (`id_number`, `first_name`, `last_name`, `password`, `email_add`, `created_at`) VALUES
+(1, 'pol', 'dsa', '$2y$10$2O0uVWonNoUhUFke9QjYXuvyqnjWd77KSq8//53w6IO1WznqA6vdG', 'dsa@email.com', '2024-12-12 14:24:38'),
+(12, 'k', 'k', '$2y$10$ZRUNhuE8zgGnBn2mSLyQYulRGx.uya/xzqmjgUKj.vJ5R9RjJmS2.', 'k2@gmail.com', '2024-12-15 09:15:39'),
+(123, 'Ken', 'za', '$2y$10$e.eqrvW3FdNRr9OPSTOY1eXmsQlWefgYqCBmkkv/o3wVFocIxURwu', 'k@gmail.com', '2024-12-13 21:37:37'),
+(2022, 'Ken', 'Zamodio', '$2y$10$T059GHDjP5LQgxdxAZgV8enfUhozw.X/0Ct4TMlszO9v6kk9pTOxW', 'ke@gmail.com', '2024-12-14 10:04:03'),
+(2023, 'Pool', 'Altona', '$2y$10$Tl50NRAQbyNZsbXnK0qlvuuUkFI0V/UomzN0v94wghR20dTTSRBgK', 'pol@gmail.com', '2024-12-14 10:06:19'),
+(12312, 'Sheu', 'Mai', '$2y$10$nslwKkfpfjnJ6x/V3hNKh.fUEzEiSMpmNWUy6B01oLYKzMaY5c4E.', '24@gmail.com', '2024-12-15 14:06:21'),
+(123321, 'kene', 'poldsa', '$2y$10$NtxuOZIfy1P6KU7U5cRosePq1gr5T7xTbZ2WGxZmcxRrRkBPhs6Hm', 'lol@gmail.com', '2024-12-12 14:27:02');
+
+--
+-- Indexes for dumped tables
+--
+
+--
+-- Indexes for table `reports_table`
+--
+ALTER TABLE `reports_table`
+  ADD PRIMARY KEY (`report_id`),
+  ADD KEY `id_number` (`id_number`);
+
+--
+-- Indexes for table `user_info`
+--
+ALTER TABLE `user_info`
+  ADD PRIMARY KEY (`id_number`);
+
+--
+-- AUTO_INCREMENT for dumped tables
+--
+
+--
+-- AUTO_INCREMENT for table `reports_table`
+--
+ALTER TABLE `reports_table`
+  MODIFY `report_id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=48;
+
+--
+-- AUTO_INCREMENT for table `user_info`
+--
+ALTER TABLE `user_info`
+  MODIFY `id_number` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=512252;
+
+--
+-- Constraints for dumped tables
+--
+
+--
+-- Constraints for table `reports_table`
+--
+ALTER TABLE `reports_table`
+  ADD CONSTRAINT `reports_table_ibfk_1` FOREIGN KEY (`id_number`) REFERENCES `user_info` (`id_number`) ON DELETE CASCADE ON UPDATE CASCADE;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
